@@ -33,6 +33,7 @@ class _RandomWordsState extends State<RandomWords> {
         );
       },
     );
+
     // PRAKTIKUM 3
     // final wordPair = WordPair.random(); // NEW
     // return Center(
