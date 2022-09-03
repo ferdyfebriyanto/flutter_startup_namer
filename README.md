@@ -26,6 +26,12 @@ flutter pub add english_words
 import 'package:english_words/english_words.dart';
 ```
 
+## Praktikum 3: Add a stateful widget
+
+![Add a stateful widget](./images/03.png)
+
+
+
 
 
 
